@@ -8,7 +8,7 @@
 - Sei falar inglês e estou em busca de aprender linguagens de programação pra desenvolver meus própios programas. 
 
 
-###Estou no aprendizado das linguagens:
+###🤩Estou no aprendizado das linguagens:
 
 - C
 - JavaScript
